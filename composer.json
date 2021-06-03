@@ -1,0 +1,17 @@
+{
+    "name": "povilasb/mvc",
+    "description": "A small footprint MVC project.",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Povilas Brilius",
+            "email": "povilas@pbgroupeu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
